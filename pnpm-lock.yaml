@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  vite:
+    specifier: ^5.2.8
+    version: 5.2.8
   vitepress:
     specifier: ^1.0.2
     version: 1.0.2(@algolia/client-search@4.23.2)(search-insights@2.13.0)

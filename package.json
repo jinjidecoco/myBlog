@@ -16,5 +16,7 @@
     "vite": "^5.2.8",
     "vitepress": "^1.0.2"
   },
-  "packageManager": "pnpm@8.15.5" //指定否则 github actions 会报错
+  "packageManager": "pnpm@8.15.5"
 }
+
+

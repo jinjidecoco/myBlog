@@ -20,7 +20,7 @@ features:
   - icon: ⚡️
     title: 这是一个闪电图标
     details: wawawa
-  - icon: 🖖
+  - icon: 🖖88888888888889
     title: 这是一个手掌图标
     details: good...
   - icon: 🛠️

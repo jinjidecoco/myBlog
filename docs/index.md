@@ -14,13 +14,14 @@ hero:
       link: /articles/组件库环境搭建
     - theme: alt
       text: View on Gitee
-      link: https://gitee.com/geeksdidi
+      # link: https://gitee.com/geeksdidi
+      # link: https://github.com/jinjidecoco
 
 features:
   - icon: ⚡️
     title: 这是一个闪电图标
     details: wawawa
-  - icon: 🖖88888888888889
+  - icon: 🖖8888888
     title: 这是一个手掌图标
     details: good...
   - icon: 🛠️

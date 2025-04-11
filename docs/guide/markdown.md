@@ -55,15 +55,15 @@ VitePress 使用 [Markdown](https://daringfireball.net/projects/markdown/) 作�
 ### 链接
 
 ```markdown
-[链接文本](URL)
-[带有标题的链接](URL "标题")
+[链接文本](https://example.com)
+[带有标题的链接](https://example.com "标题")
 ```
 
 ### 图片
 
 ```markdown
-![替代文本](图片URL)
-![替代文本](图片URL "标题")
+![替代文本](https://example.com/image.jpg)
+![替代文本](https://example.com/image.jpg "标题")
 ```
 
 ### 代码
@@ -232,7 +232,7 @@ $$
 
 你可以在 Markdown 文件中使用 Vue 模板语法：
 
-```markdown
+```vue
 <script setup>
 import { ref } from 'vue'
 
@@ -269,8 +269,8 @@ const count = ref(0)
 内部链接会自动转换为路由链接：
 
 ```markdown
-[首页](/guide/index.md)
-[其他页面](../getting-started.md)
+[首页](/)
+[指南页面](/guide/)
 ```
 
 以上是 VitePress 常用的 Markdown 语法扩展，更多功能请查阅 [VitePress 官方文档](https://vitepress.dev/guide/markdown)。

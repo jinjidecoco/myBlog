@@ -311,7 +311,7 @@ layout: 404
 Netlify `_redirects` 文件（放在 `public` 目录下）：
 
 ```
-# 重定向
+# 重定向示例
 /old-page   /new-page   301
 
 # 重写（将请求传递给单页面应用程序）
@@ -336,8 +336,6 @@ Vercel `vercel.json` 文件（放在项目根目录）：
 ### 启用 Gzip 或 Brotli 压缩
 
 大多数托管提供商默认支持压缩，但如果你在自己的服务器上托管，确保启用压缩：
-
-Nginx 示例：
 
 ```nginx
 gzip on;

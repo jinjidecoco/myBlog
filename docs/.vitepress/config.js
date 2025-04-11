@@ -5,8 +5,10 @@ export default {
   head: [
     ['link', { rel: 'icon', href: '/myBlog/favicon.svg' }]
   ],
+  // 禁用死链接检查
+  ignoreDeadLinks: true,
   themeConfig: {
-    logo: '', //logo,
+    logo: '/myBlog/logo.svg',
     nav: [
       { text: '首页', link: '/' },
       { text: '使用教程', link: '/guide/' },

@@ -96,6 +96,7 @@ VitePress 将在 http://localhost:5173 启动开发服务器。
 ├── docs
 │   ├── .vitepress
 │   │   ├── cache/           # 缓存文件（可以添加到 .gitignore）
+│   │   ├── public/          # 静态资源目录
 │   │   │   ├── logo.svg     # 网站 Logo
 │   │   │   └── favicon.svg  # 网站图标
 │   │   └── config.js        # 网站配置

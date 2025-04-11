@@ -2,6 +2,8 @@
 
 这是一个使用 VitePress 构建的个人博客网站。
 
+https://jinjidecoco.github.io/myBlog
+
 ## 项目简介
 
 - 基于 VitePress 1.0.2 构建

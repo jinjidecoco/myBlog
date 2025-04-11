@@ -5,9 +5,9 @@ hero:
   name: 小飒的博客
   text: Front-end Engineer
   tagline: 探索前端技术的无限可能 🚀
-  image:
-    src: /myBlog/logo.svg
-    alt: Blog Logo
+  # image:
+  #   src: logo.png
+  #   alt: Logo
   actions:
     - theme: brand
       text: 开始阅读

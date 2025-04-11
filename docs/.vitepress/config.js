@@ -8,7 +8,7 @@ export default {
   // 禁用死链接检查
   ignoreDeadLinks: true,
   themeConfig: {
-    logo: '/myBlog/logo.svg',
+    // logo: '/myBlog/logo.svg',
     nav: [
       { text: '首页', link: '/' },
       { text: '使用教程', link: '/guide/' },

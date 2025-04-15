@@ -16,7 +16,7 @@ export default {
         items: [
           { text: 'JavaScript', link: '/frontend/javascript/' },
           { text: 'Vue', link: '/frontend/vue/' },
-          { text: 'React', link: '/frontend/react/' }
+          { text: 'React', link: '/frontend/react/' },
           { text: '常见手写题', link: '/frontend/question/' }
         ]
       },

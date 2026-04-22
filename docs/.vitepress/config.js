@@ -12,6 +12,7 @@ export default {
     nav: [
       { text: '首页', link: '/' },
       { text: '使用教程', link: '/guide/' },
+      { text: 'OpenClaw', link: '/openclaw/' },
       { text: '前端',
         items: [
           { text: 'JavaScript', link: '/frontend/javascript/' },
@@ -40,6 +41,16 @@ export default {
             { text: 'Markdown语法', link: '/guide/markdown' },
             { text: '自定义样式', link: '/guide/custom-style' },
             { text: '部署指南', link: '/guide/deployment' }
+          ]
+        }
+      ],
+      '/openclaw/': [
+        {
+          text: 'OpenClaw',
+          collapsed: false,
+          items: [
+            { text: '概述', link: '/openclaw/' },
+            { text: '常用指令手册', link: '/openclaw/command-handbook' }
           ]
         }
       ],

@@ -33,6 +33,10 @@ features:
     title: 开发工具
     details: 精选高效开发工具与最佳实践，提升开发效率
     link: /tools/
+  - icon: 🤖
+    title: OpenClaw
+    details: 收录 OpenClaw 的常用命令、诊断排障和代理调用速查手册
+    link: /openclaw/
   - icon: 📚
     title: 学习资源
     details: 整理优质的学习资源，分享实用的开发技巧和经验
@@ -41,6 +45,10 @@ features:
 highlights:
   - title: 最新文章
     items:
+      - title: OpenClaw 常用指令手册
+        icon: 🤖
+        link: /openclaw/command-handbook
+        description: 一页速查 OpenClaw CLI 的高频命令与诊断入口
       - title: VitePress 使用教程
         icon: 📚
         link: /guide/

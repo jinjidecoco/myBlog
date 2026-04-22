@@ -48,7 +48,7 @@ pnpm docs:dev
 ### 构建
 
 ```bash
-# 构建静态文件
+# 线上构建静态文件
 pnpm docs:build
 
 # 本地预览构建结果
